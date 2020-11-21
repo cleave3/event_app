@@ -1,0 +1,23 @@
+{
+  "name": "event_app",
+  "version": "1.0.0",
+  "description": "An event publishing server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleave3/event_app.git"
+  },
+  "keywords": [],
+  "author": "owhiroro cleave <owhiroroeghele@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleave3/event_app/issues"
+  },
+  "homepage": "https://github.com/cleave3/event_app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
