@@ -11,7 +11,7 @@ git clone https://github.com/cleave3/event_app.git
 
 ```
 
-- cd into the working diractory
+- cd into the working directory
 - Run the command below on your terminal to start the server
 
 ```sh
